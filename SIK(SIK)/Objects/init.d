@@ -1,0 +1,13 @@
+.\objects\init.o: src\init.c
+.\objects\init.o: src\stm32f10x.h
+.\objects\init.o: src\core_cm3.h
+.\objects\init.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\init.o: src\system_stm32f10x.h
+.\objects\init.o: src\stm32f10x_conf.h
+.\objects\init.o: src\stm32f10x_gpio.h
+.\objects\init.o: src\stm32f10x.h
+.\objects\init.o: src\stm32f10x_iwdg.h
+.\objects\init.o: src\stm32f10x_rcc.h
+.\objects\init.o: src\stm32f10x_tim.h
+.\objects\init.o: src\stm32f10x_usart.h
+.\objects\init.o: src\misc.h

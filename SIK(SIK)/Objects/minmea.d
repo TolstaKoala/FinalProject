@@ -1,0 +1,12 @@
+.\objects\minmea.o: src\minmea.c
+.\objects\minmea.o: src\minmea.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\minmea.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
